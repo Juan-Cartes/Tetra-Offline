@@ -1,0 +1,48 @@
+fileFormatVersion: 2
+guid: d999cd7fc8d317e4bbf2d7237499c480
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playField: {instanceID: 0}
+  - grid: {instanceID: 0}
+  - transparent: {fileID: 21300000, guid: 017a98eac3a44384f81bc332afc3d230, type: 3}
+  - gridSprite: {fileID: 21300000, guid: d73c44ce4c813a3428400cb032c8c06d, type: 3}
+  - skin: {instanceID: 0}
+  - mino_z: {instanceID: 0}
+  - mino_t: {instanceID: 0}
+  - mino_s: {instanceID: 0}
+  - mino_o: {instanceID: 0}
+  - mino_l: {instanceID: 0}
+  - mino_j: {instanceID: 0}
+  - mino_i: {instanceID: 0}
+  - mino_garbage: {instanceID: 0}
+  - ghost_z: {instanceID: 0}
+  - ghost_t: {instanceID: 0}
+  - ghost_s: {instanceID: 0}
+  - ghost_o: {instanceID: 0}
+  - ghost_l: {instanceID: 0}
+  - ghost_j: {instanceID: 0}
+  - ghost_i: {instanceID: 0}
+  - lineClearParticles: {instanceID: 0}
+  - lockDownParticles: {instanceID: 0}
+  - hardDropParticles: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - linesText: {instanceID: 0}
+  - levelText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - comboText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - BackToBackAnimation: {instanceID: 0}
+  - TetraAnimation: {instanceID: 0}
+  - TSpinAnimation: {instanceID: 0}
+  - PerfectClearAnimation: {instanceID: 0}
+  - PauseMenu: {instanceID: 0}
+  - GameOver: {instanceID: 0}
+  - onlineBoard: {instanceID: 0}
+  - ParticlePool: {instanceID: 0}
+  executionOrder: 150
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

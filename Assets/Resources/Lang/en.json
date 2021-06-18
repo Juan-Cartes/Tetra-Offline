@@ -1,0 +1,123 @@
+{
+
+  "content": [
+
+    {
+      "key": "settings",
+      "message": "SETTINGS",
+      "description": "Keep all caps"
+    },
+
+    {
+      "key": "p_shift_left",
+      "message": "Piece Shift Left",
+      "description": "Seen on the config menu."
+    },
+
+    {
+      "key": "p_shift_right",
+      "message": "Piece Shift Right",
+      "description": "Seen on the config menu."
+    },
+
+    {
+      "key": "hard_drop",
+      "message": "Hard Drop",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "soft_drop",
+      "message": "Soft Drop",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "rotate_left",
+      "message": "Rotate Left",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "rotate_right",
+      "message": "Rotate Right",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "hold",
+      "message": "Hold",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "retry",
+      "message": "Retry",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "pause",
+      "message": "Pause",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "controller",
+      "message": "Controller",
+      "description": "As in 'Joystick', game controller"
+    },
+    {
+      "key": "audio",
+      "message": "Audio",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "music",
+      "message": "Music",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "sfx",
+      "message": "Sound Effects",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "any_key",
+      "message": "Press any key",
+      "descrption": "Seen when changing keyboard bindings"
+    },
+    {
+      "key": "singleplayer",
+      "message": "SINGLEPLAYER",
+      "description": "Shown in the title screen as a 'singleplayer' button. It will also appear at the header bar for the singleplayer menu"
+    },
+    {
+      "key": "online",
+      "message": "ONLINE",
+      "description": "Shown in the title screen as a 'online' button. It will also appear at the header bar for the online menu"
+    },
+    {
+      "key": "login",
+      "message": "LOGIN",
+      "description": ""
+    },
+    {
+      "key": "logout",
+      "message": "LOGOUT",
+      "description": "Shown on the button to close the active session."
+    },
+    {
+      "key": "any_button",
+      "message": "Press any button"
+    },
+    {
+      "key": "exit_main",
+      "message":  "Main Menu"
+    },
+    {
+      "key": "versus",
+      "message": "VERSUS"
+    },
+    {
+      "key": "find_opponent",
+      "message":  "Find Opponent"
+    }
+
+  ]
+
+
+}

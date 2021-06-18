@@ -1,0 +1,258 @@
+{
+    "sfx": [
+        {
+            "name": "move",
+            "file": "move"
+        },
+        {
+            "name": "board-fall",
+            "file": "boardfall"
+        },
+        {
+            "name": "perfect-clear",
+            "file": "bravo"
+        },
+        {
+            "name": "change",
+            "file": "change"
+        },
+        {
+            "name": "collapse1",
+            "file": "collapse"
+        },
+        {
+            "name": "collapse2",
+            "file": "collapse"
+        },
+        {
+            "name": "collapse3",
+            "file": "collapse"
+        },
+        {
+            "name": "collapse4",
+            "file": "collapse"
+        },
+        {
+            "name": "erase1",
+            "file": "erase1"
+        },
+        {
+            "name": "erase2",
+            "file": "erase2"
+        },
+        {
+            "name": "erase3",
+            "file": "erase3"
+        },
+        {
+            "name": "erase4",
+            "file": "erase4"
+        },
+        {
+            "name": "erase4-b2b",
+            "file": "erase4"
+        },
+        {
+            "name": "garbage-spawn",
+            "file": "garbage"
+        },
+        {
+            "name": "go",
+            "file": "go"
+        },
+        {
+            "name": "instant-drop",
+            "file": "harddrop"
+        },
+        {
+            "name": "hold",
+            "file": "hold"
+        },
+        {
+            "name": "buffered-hold",
+            "file": "initialhold"
+        },
+        {
+            "name": "buffered-rotate",
+            "file": "initialrotate"
+        },
+        {
+            "name": "buffer-set",
+            "file": "initialuse"
+        },
+        {
+            "name": "land",
+            "file": "land"
+        },
+        {
+            "name": "level-up",
+            "file": "levelup"
+        },
+        {
+            "name": "lock-self",
+            "file": "lock"
+        },
+        {
+            "name": "lock-instant-drop",
+            "file": "lock"
+        },
+        {
+            "name": "forced-lock",
+            "file": "lockforce"
+        },
+        {
+            "name": "pause",
+            "file": "pause"
+        },
+        {
+            "name": "unpause",
+            "file": "pause"
+        },
+        {
+            "name": "rotate-slot",
+            "file": "prespin"
+        },
+        {
+            "name": "rotate-slot-mini",
+            "file": "prespin"
+        },
+        {
+            "name": "ready",
+            "file": "ready"
+        },
+        {
+            "name": "rotate",
+            "file": "rotate"
+        },
+        {
+            "name": "step",
+            "file": "step"
+        },
+        {
+            "name": "death-warning",
+            "file": "topoutwarning"
+        },
+        {
+            "name": "tspin0",
+            "file": "tspin0"
+        },
+        {
+            "name": "tspin0-mini",
+            "file": "tspin0mini"
+        },
+        {
+            "name": "tspin1",
+            "file": "tspin1"
+        },
+        {
+            "name": "tspin1-mini",
+            "file": "tspin1mini"
+        },
+        {
+            "name": "tspin2",
+            "file": "tspin2"
+        },
+        {
+            "name": "tspin2-mini",
+            "file": "tspin2mini"
+        },
+        {
+            "name": "tspin3",
+            "file": "tspin3"
+        },
+        {
+            "name": "tspin3-mini",
+            "file": "tspin3mini"
+        },
+        {
+            "name": "tspin1-b2b",
+            "file": "tspin1"
+        },
+        {
+            "name": "tspin1-mini-b2b",
+            "file": "tspin1mini"
+        },
+        {
+            "name": "tspin2-b2b",
+            "file": "tspin2"
+        },
+        {
+            "name": "tspin2-mini-b2b",
+            "file": "tspin2mini"
+        },
+        {
+            "name": "tspin3-b2b",
+            "file": "tspin3"
+        },
+        {
+            "name": "tspin3-mini-b2b",
+            "file": "tspin3mini"
+        },
+        {
+            "name": "b2b-start",
+            "file": "b2b"
+        },
+        {
+            "name": "b2b-continue",
+            "file": "b2b"
+        },
+        {
+            "name": "lock-antistall",
+            "file": "lockforce"
+        },
+        {
+            "name": "garbage-send-small",
+            "file": "garbagesend1"
+        },
+        {
+            "name": "garbage-send-medium",
+            "file": "garbagesend2"
+        },
+        {
+            "name": "garbage-send-large",
+            "file": "garbagesend3"
+        },
+        {
+            "name": "garbage-hit-small",
+            "file": "garbagehit1"
+        },
+        {
+            "name": "garbage-hit-medium",
+            "file": "garbagehit2"
+        },
+        {
+            "name": "garbage-hit-large",
+            "file": "garbagehit3"
+        },
+        {
+            "name": "garbage-send-room-small",
+            "file": "garbagesend1"
+        },
+        {
+            "name": "garbage-send-room-medium",
+            "file": "garbagesend2"
+        },
+        {
+            "name": "garbage-send-room-large",
+            "file": "garbagesend3"
+        },
+        {
+            "name": "garbage-hit-room-small",
+            "file": "garbagehit1"
+        },
+        {
+            "name": "garbage-hit-room-medium",
+            "file": "garbagehit2"
+        },
+        {
+            "name": "garbage-hit-room-large",
+            "file": "garbagehit3"
+        },
+        {
+            "name": "garbage-counter",
+            "file": "garbagecounter"
+        }
+    ],
+    "combos": [
+    ]
+}

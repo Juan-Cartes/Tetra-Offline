@@ -1,0 +1,116 @@
+{
+
+  "content": [
+
+    {
+      "key": "settings",
+      "message": "AJUSTES",
+      "description": "Keep all caps"
+    },
+
+    {
+      "key": "p_shift_left",
+      "message": "Desplazar Izquierda",
+      "description": "Seen on the config menu."
+    },
+
+    {
+      "key": "p_shift_right",
+      "message": "Desplazar Derecha",
+      "description": "Seen on the config menu."
+    },
+
+    {
+      "key": "hard_drop",
+      "message": "Caída Inmediata",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "soft_drop",
+      "message": "Caída Rápida",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "rotate_left",
+      "message": "Rotar Izquierda",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "rotate_right",
+      "message": "Rotar Derecha",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "hold",
+      "message": "Reserva",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "retry",
+      "message": "Reintentar",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "controller",
+      "message": "Mando",
+      "description": "As in 'Joystick', game controller"
+    },
+    {
+      "key": "pause",
+      "message": "Pausa",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "audio",
+      "message": "Audio",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "music",
+      "message": "Música",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "sfx",
+      "message": "Efectos de sonido",
+      "description": "Seen on the config menu"
+    },
+    {
+      "key": "any_key",
+      "message": "Presiona cualquier tecla",
+      "descrption": "Seen when changing keyboard bindings"
+    },
+    {
+      "key": "singleplayer",
+      "message": "UN JUGADOR",
+      "description": "Shown in the title screen as a 'singleplayer' button. It will also appear at the header bar for the singleplayer menu"
+    },
+    {
+      "key": "online",
+      "message": "ONLINE",
+      "description": "Shown in the title screen as a 'online' button. It will also appear at the header bar for the online menu"
+    },
+    {
+      "key": "login",
+      "message": "ACCEDER",
+      "description": ""
+    },
+    {
+      "key": "logout",
+      "message": "CERRAR SESIÓN",
+      "description": "Shown on the button to close the active session."
+    },
+    {
+      "key": "any_button",
+      "message": "Presiona cualquier botón"
+    },
+    {
+      "key": "exit_main",
+      "message": "Menú Principal"
+    }
+
+
+  ]
+
+
+}

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FadeOut
+  m_Controller: {fileID: 9100000, guid: 04a1fc428f373304da491e25cb3df410, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 66260fe255ed1cf4881c8b24dd1a825f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6e767fd72e6a7154ba1d7556429f5514, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e672e50645b3f264ab53a24e398fad12, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 008f92f793950c548b05c2a478a9621d, type: 2}
