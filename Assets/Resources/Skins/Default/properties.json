@@ -1,0 +1,505 @@
+{
+    "name": "Default",
+    "author": "Dr Ocelot",
+    "mainTextures": [
+        "Tetrion - Azure",
+        "Tetrion - Chlorophyll",
+        "Tetrion - Gold",
+        "Tetrion - Plum"
+    ],
+    "mainTexturePosition": {
+        "x": 0,
+        "y": 0
+    },
+    "mainTextureWidth": 1.274,
+    "mainTextureHeight": 1.274,
+    "visibleMinos": 22,
+    "renderOver": true,
+    "renderOverAmount": 5,
+    "rooms": {
+        "tetrion": "Tetrion - Room Remote",
+        "visibleMinos": 22,
+        "playField": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0,
+            "anchors": {
+                "min": {
+                    "x": 0.3084223,
+                    "y": 0.09823761
+                },
+                "max": {
+                    "x": 0.6913977,
+                    "y": 0.9399943
+                }
+            }
+        }
+    },
+    "aura": {
+        "textures": [
+            "Aura/aura01",
+            "Aura/aura02",
+            "Aura/aura03",
+            "Aura/aura04",
+            "Aura/aura05",
+            "Aura/aura06",
+            "Aura/aura_arcane",
+            "Aura/aura_earth",
+            "Aura/aura_fire",
+            "Aura/aura_frost",
+            "Aura/aura_life",
+            "Aura/aura_lightning",
+            "Aura/aura_water"
+        ],
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "minos": [
+        {
+            "id": "i",
+            "path": "Minos/mino_i"
+        },
+        {
+            "id": "j",
+            "path": "Minos/mino_j"
+        },
+        {
+            "id": "l",
+            "path": "Minos/mino_l"
+        },
+        {
+            "id": "o",
+            "path": "Minos/mino_o"
+        },
+        {
+            "id": "s",
+            "path": "Minos/mino_s"
+        },
+        {
+            "id": "t",
+            "path": "Minos/mino_t"
+        },
+        {
+            "id": "z",
+            "path": "Minos/mino_z"
+        },
+        {
+            "id": "garbage",
+            "path": "Minos/mino_garbage"
+        }
+    ],
+    "ghosts": [
+        {
+            "id": "i",
+            "path": "Ghost/ghost_i"
+        },
+        {
+            "id": "j",
+            "path": "Ghost/ghost_j"
+        },
+        {
+            "id": "l",
+            "path": "Ghost/ghost_l"
+        },
+        {
+            "id": "o",
+            "path": "Ghost/ghost_o"
+        },
+        {
+            "id": "s",
+            "path": "Ghost/ghost_s"
+        },
+        {
+            "id": "t",
+            "path": "Ghost/ghost_t"
+        },
+        {
+            "id": "z",
+            "path": "Ghost/ghost_z"
+        }
+    ],
+    "playField": {
+        "position": {
+            "x": -0.2429123,
+            "y": 0.5602684
+        },
+        "width": 0.4865479,
+        "height": 1.072327
+    },
+    "garbageContainer": {
+        "x": -0.33565,
+        "y": -0.3026
+    },
+    "nameplate": {
+        "position":{
+            "x": 0.1216,
+            "y": -0.63
+        },
+        "width": 0.8278952
+    },
+    "dangerBackground": {
+        "enabled": true,
+        "position": {
+            "x": -0.2429123,
+            "y": 0.5602684
+        },
+        "width": 0.4865479,
+        "height": 1.072327
+    },
+    "topoutWarning": {
+        "sprite": "Caution",
+        "position": {
+            "x": 0.4116,
+            "y": 0.5234
+        },
+        "width": 0.2647411,
+        "height": 0.04589426
+    },
+    "holdBox": {
+        "offsets": [
+            {
+                "piece": "i",
+                "x": 0.5,
+                "y": -0.5
+            },
+            {
+                "piece": "o",
+                "x": 1.5,
+                "y": -1
+            },
+            {
+                "piece": "j",
+                "x": 1,
+                "y": -1
+            },
+            {
+                "piece": "l",
+                "x": 1,
+                "y": -1
+            },
+            {
+                "piece": "z",
+                "x": 1,
+                "y": -1
+            },
+            {
+                "piece": "s",
+                "x": 1,
+                "y": -1
+            },
+            {
+                "piece": "t",
+                "x": 1,
+                "y": -1
+            }
+        ],
+        "minoSizeMultipler": 1,
+        "position": {
+            "x": -0.5288696,
+            "y": 0.4551086
+        },
+        "width": 0.2341436,
+        "height": 0.1871959
+    },
+    "nextBoxes": [
+        {
+            "offsets": [
+                {
+                    "piece": "i",
+                    "x": 0.5,
+                    "y": -0.5
+                },
+                {
+                    "piece": "o",
+                    "x": 1.5,
+                    "y": -1
+                },
+                {
+                    "piece": "j",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "l",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "z",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "s",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "t",
+                    "x": 1,
+                    "y": -1
+                }
+            ],
+            "minoSizeMultipler": 1,
+            "position": {
+                "x": 0.3009949,
+                "y": 0.4590149
+            },
+            "width": 0.2346719,
+            "height": 0.190711
+        },
+        {
+            "offsets": [
+                {
+                    "piece": "i",
+                    "x": 0.5,
+                    "y": -0.5
+                },
+                {
+                    "piece": "o",
+                    "x": 1.5,
+                    "y": -1
+                },
+                {
+                    "piece": "j",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "l",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "z",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "s",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "t",
+                    "x": 1,
+                    "y": -1
+                }
+            ],
+            "minoSizeMultipler": 0.8,
+            "position": {
+                "x": 0.2998047,
+                "y": 0.2124023
+            },
+            "width": 0.1869504,
+            "height": 0.1382315
+        },
+        {
+            "offsets": [
+                {
+                    "piece": "i",
+                    "x": 0.5,
+                    "y": -0.5
+                },
+                {
+                    "piece": "o",
+                    "x": 1.5,
+                    "y": -1
+                },
+                {
+                    "piece": "j",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "l",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "z",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "s",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "t",
+                    "x": 1,
+                    "y": -1
+                }
+            ],
+            "minoSizeMultipler": 0.8,
+            "position": {
+                "x": 0.3004761,
+                "y": 0.01553345
+            },
+            "width": 0.1845274,
+            "height": 0.1345812
+        },
+        {
+            "offsets": [
+                {
+                    "piece": "i",
+                    "x": 0.5,
+                    "y": -0.5
+                },
+                {
+                    "piece": "o",
+                    "x": 1.5,
+                    "y": -1
+                },
+                {
+                    "piece": "j",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "l",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "z",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "s",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "t",
+                    "x": 1,
+                    "y": -1
+                }
+            ],
+            "minoSizeMultipler": 0.8,
+            "position": {
+                "x": 0.3004761,
+                "y": -0.1782837
+            },
+            "width": 0.187582,
+            "height": 0.1388431
+        },
+        {
+            "offsets": [
+                {
+                    "piece": "i",
+                    "x": 0.5,
+                    "y": -0.5
+                },
+                {
+                    "piece": "o",
+                    "x": 1.5,
+                    "y": -1
+                },
+                {
+                    "piece": "j",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "l",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "z",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "s",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "piece": "t",
+                    "x": 1,
+                    "y": -1
+                }
+            ],
+            "minoSizeMultipler": 0.8,
+            "position": {
+                "x": 0.3000488,
+                "y": -0.3733215
+            },
+            "width": 0.1868654,
+            "height": 0.137755
+        }
+    ],
+    "actionText": {
+        "tspin": {
+            "position": {
+                "x": -157,
+                "y": 12.9
+            },
+            "stars": {
+                "x": 0,
+                "y": 20.3
+            }
+        },
+        "b2b": {
+            "x": -209,
+            "y": 45.9
+        },
+        "tetra": {
+            "x": -271.5,
+            "y": 40.8
+        },
+        "combo": {
+            "x": 289.9,
+            "y": -239
+        },
+        "pc": {
+            "x": 4.2,
+            "y": 334
+        }
+    },
+    "statsText": {
+        "time": {
+            "x": -2.340899,
+            "y": -0.4920001
+        },
+        "timeValue": {
+            "x": -2.644002,
+            "y": -0.8460002
+        },
+        "lines": {
+            "x": -2.340899,
+            "y": -1.275001
+        },
+        "linesValue": {
+            "x": -2.45,
+            "y": -1.629001
+        },
+        "level": {
+            "x": -2.340899,
+            "y": -1.98
+        },
+        "levelValue": {
+            "x": -2.45,
+            "y": -2.334001
+        },
+        "score": {
+            "x": -2.340899,
+            "y": -2.626
+        },
+        "scoreValue": {
+            "x": -2.646,
+            "y": -2.98
+        },
+        "bestScore": {
+            "x": -4.117,
+            "y": -3.362
+        }
+    }
+}
